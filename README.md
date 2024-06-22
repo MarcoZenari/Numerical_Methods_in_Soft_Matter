@@ -12,7 +12,7 @@ The main topics are:
 
 - Molecular Dynamics
 
-- Langevein Dynamics
+- Langevin Dynamics
 
 - Reweighting techniques
 
